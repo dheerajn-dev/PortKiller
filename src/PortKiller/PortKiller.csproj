@@ -11,8 +11,8 @@
     <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
     <Version>0.1.0</Version>
     <Authors>Your Name</Authors>
-    <Description>One-click port process viewer and killer for Windows developers</Description>
-    <RepositoryUrl>https://github.com/YOUR_USERNAME/port-killer</RepositoryUrl>
+    <Description>One-click port process viewer and killer for Windows</Description>
+    <RepositoryUrl>https://github.com/dheerajn-dev/port-killer</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

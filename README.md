@@ -4,6 +4,8 @@
 
 Every developer has typed `netstat -ano` a thousand times, then cross-referenced PIDs in Task Manager. **Port Killer** skips all that — one window, one click.
 
+![Port Killer Screenshot](src/PortKiller/Resources/screenshot.png)
+
 ---
 
 ### 🔒 100% Local. Always.
